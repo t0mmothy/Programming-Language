@@ -36,7 +36,7 @@ This outputs a ! to the console
 Up to 2 commands can be cained
 e.g.
 <33;
->ar0~;
+>ar0^;
 
 
 [ Example Code ]
