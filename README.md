@@ -27,11 +27,6 @@ e.g.
 >r0;
 "
 
-Commands can be chained with the ':' command
-e.g.
-<33;
->a:l0;
-
 A number can be converted to its corresponding ascii char wuth the 'a' command
 >a33;
 This outputs a ! to the console
@@ -40,7 +35,7 @@ This outputs a ! to the console
 [ Example Code ]
 >a33;
 <33;
->a:l1;
+>ar1;
 [ End of example code]
 Line 0 Outputs ! to the console
 Line 1 0 in the order is assigned 33
