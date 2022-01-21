@@ -5,7 +5,7 @@ Python Based programming language, interpreted with python terminal.
 Programms will be created with a '.pl' file
 The programming language will be interpreted with one python file
 A line is ended with a ';'
-Any commands used in an output must be ended with a '^' before the line cna be ended
+Any commands used in an output must be ended with a '^' before the line can be ended
 
 Lines can be assigned numbers with the '<' command file starts from line 0
 e.g '<64;'
@@ -18,7 +18,7 @@ Assigned lines are like a stack, the order of assignment is how they should be r
 <6;
 <4;
 <3;
-So with the login in mind the order that the assigned numbers will be retrieved at is to get '6' you retrieve 0 to get 4 you retireve 1 ect.
+So with the logicin mind the order that the assigned numbers will be retrieved at is to get '6' you retrieve 0 to get 4 you retireve 1 ect.
 
 A single number can be outputted with the '>' command
 e.g. '>6;'
@@ -32,6 +32,11 @@ e.g.
 A number can be converted to its corresponding ascii char wuth the 'a' command
 >a33;
 This outputs a ! to the console
+
+Up to 2 commands can be cained
+e.g.
+<33;
+>ar0~;
 
 
 [ Example Code ]
