@@ -33,7 +33,7 @@ A number can be converted to its corresponding ascii char wuth the 'a' command
 >a33;
 This outputs a ! to the console
 
-Up to 2 commands can be cained
+After an initial command is created in an output for example only pu to 2 commands can be chained. if more are needed they need to come after the '^'
 e.g.
 <33;
 >ar0^;
