@@ -5,6 +5,8 @@ Python Based programming language, interpreted with python terminal.
 Programms will be created with a '.pl' file
 The programming language will be interpreted with one python file
 A line is ended with a ';'
+Any commands used in an output must be ended with a '^' before the line cna be ended
+
 Lines can be assigned numbers with the '<' command file starts from line 0
 e.g '<64;'
 
